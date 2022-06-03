@@ -112,15 +112,9 @@ plt.title('Usuarios de lenguajes de programación')
 plt.show()
 ```
 
-## YouTube - Tutorial
+# prueba
 
-Compartimos el siguiente tutorial tomado de la plataforma **YouTube** que muestra como crear diagramas de barras (**Bar Charts**) haciendo uso de la función `barplot()` y el paquete **ggplot2** del lenguaje de programación R.
-
-```{r video}
-embed_url("https://www.youtube.com/watch?v=EkxRj02iaLk&t=6s") %>% 
-  use_align("center")
-```
-
+líneas de prueba
 
 <div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
 
